@@ -1,0 +1,68 @@
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\GizemBlog2.dll.config
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\GizemBlog2.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\GizemBlog2.pdb
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Antlr3.Runtime.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\CKFinder.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\EntityFramework.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\EntityFramework.SqlServer.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Newtonsoft.Json.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Owin.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\PagedList.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\PagedList.Mvc.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Helpers.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Mvc.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Optimization.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Razor.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.WebPages.Deployment.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.WebPages.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.WebPages.Razor.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\WebGrease.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\CKFinder.pdb
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\PagedList.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\PagedList.Mvc.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Helpers.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Mvc.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Optimization.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Razor.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.WebPages.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.WebPages.Deployment.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\System.Web.WebPages.Razor.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Antlr3.Runtime.pdb
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Newtonsoft.Json.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\EntityFramework.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\EntityFramework.SqlServer.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\obj\Debug\GizemBlog2.dll
+c:\users\gizembg\documents\visual studio 2013\Projects\GizemBlog2\GizemBlog2\obj\Debug\GizemBlog2.pdb
+C:\Users\gizembg\Desktop\Projects\GizemBlog2\GizemBlog2\bin\GizemBlog2.dll.config
+C:\Users\gizembg\Desktop\Projects\GizemBlog2\GizemBlog2\bin\GizemBlog2.dll
+C:\Users\gizembg\Desktop\Projects\GizemBlog2\GizemBlog2\bin\GizemBlog2.pdb
+C:\Users\gizembg\Desktop\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Mvc.dll
+C:\Users\gizembg\Desktop\Projects\GizemBlog2\GizemBlog2\bin\System.Web.Mvc.xml
+C:\Users\gizembg\Desktop\Projects\GizemBlog2\GizemBlog2\obj\Debug\GizemBlog2.csprojResolveAssemblyReference.cache
+C:\Users\gizembg\Desktop\Projects\GizemBlog2\GizemBlog2\obj\Debug\GizemBlog2.dll
+C:\Users\gizembg\Desktop\Projects\GizemBlog2\GizemBlog2\obj\Debug\GizemBlog2.pdb
